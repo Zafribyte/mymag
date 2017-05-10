@@ -29,7 +29,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "MyMag",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -983,7 +983,7 @@
     },
     "Article.html": {
       "settings": {
-        "title": "Web Creator Title",
+        "title": "Article",
         "meta_descr": "Web Creator Description"
       },
       "components": [
