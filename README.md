@@ -1,0 +1,2 @@
+# mymag
+GitHub Pages
